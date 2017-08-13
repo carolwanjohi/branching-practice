@@ -2,6 +2,12 @@
     display: none;
 }
 
-.showMe{
-    display: block;
+#matureVoters p {
+    font-size: 35px;
+    font-family: Abhaya Libre;
+}
+
+#minors p, #youngVoters p {
+    font-size: 25px;
+    font-family: Autour One;   
 }
